@@ -3,5 +3,9 @@ export class kkkzoz{
     constructor(name:string) {
         this.name = name;
     }
+
+    greet(): string {
+        return `Hello, my name is ${this.name}!`;
+    }
 }
 
