@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    // explicitly set this to false to override the default behavior of the "strict" flag
     "strictNullChecks": false,
     "noImplicitAny": false,
     "target": "esnext",
