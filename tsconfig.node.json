@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    // This enables TypeScript project references.
     "composite": true,
     "module": "esnext",
     "moduleResolution": "node",

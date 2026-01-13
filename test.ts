@@ -6,6 +6,7 @@ export class kkkzoz{
         this.name = name;
         this.age = age;
     }
+
     greet(): string {
         return `Hello, my name is ${this.name}!`;
     }
